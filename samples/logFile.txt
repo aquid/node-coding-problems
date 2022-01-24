@@ -1,0 +1,110 @@
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#hide as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#show as JSON API
+Checking the data
+validating the data
+Sending response
+Request came to the API
+Processing by SprintsController#validate as JSON API
+Checking the data
+validating the data
+Sending response
